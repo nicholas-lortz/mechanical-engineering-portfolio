@@ -6,20 +6,6 @@ A practical guide to the inch-series outside micrometer ("mike"): how it works, 
 
 ---
 
-## Table of Contents
-
-1. [Parts of the Micrometer](#parts-of-the-micrometer)
-2. [How It Works](#how-it-works)
-3. [The Three-Step Reading Method](#the-three-step-reading-method)
-4. [Worked Examples](#worked-examples)
-5. [Reading Larger Micrometers (2"-6")](#reading-larger-micrometers-2-6)
-6. [How to Hold and Use a Micrometer](#how-to-hold-and-use-a-micrometer)
-7. [Common Mistakes](#common-mistakes)
-8. [Practice Problems](#practice-problems)
-9. [Quick Reference Card](#quick-reference-card)
-
----
-
 ## Parts of the Micrometer
 
 | Part | Function |
