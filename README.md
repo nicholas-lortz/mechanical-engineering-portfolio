@@ -1,5 +1,3 @@
-# mechanical-engineering-portfolio
-
 # Mechanical Engineering Portfolio
 
 Mechanical engineer with a B.S. in Mechanical Engineering and
