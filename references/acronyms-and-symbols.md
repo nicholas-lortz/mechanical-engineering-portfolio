@@ -17,12 +17,15 @@
 | CNC | Computer Numerical Control |
 | COTS | Commercial Off-the-Shelf |
 | DAQ | Data Acquisition |
+| DCN | Document Change Notice |
+| DCR | Document Change Request |
 | DFA | Design for Assembly | 
 | DFAuto | Design for Automation |
 | DFC | Design for Cost |
 | DFM | Design for Manufacturing | 
 | DHF | Design History Files | 
 | DMR | Device Master Record |
+| DOE | Design of Experiments |
 | DVP&R | Design Verification Plan & Report |
 | ECN | Engineering Change Notice |
 | ECO | Engineering Change Order |
@@ -32,12 +35,14 @@
 | ERP | Enterprise Resource Planning |
 | FAT | Factory Acceptance Testing | 
 | FEA | Finite Element Analysis |
+| FOS | Factor of Safety |
 | GD&T | Geometric Dimensioning and Tolerancing |
 | GMP | Good Manufacturing Practice |
 | HALT | Highly Accelerated Life Test |
 | HPDM | High-Precision Design and Manufacturing |
 | HPM | High-precision Machining |
 | IP | Intellectual Property |
+| LRU | Line Replaceable Unit |
 | MBSE | Model-based Systems Engineering |
 | MEP | Mechanical Electrical Plumbing |
 | MES | Manufacturing Execution System |
@@ -54,6 +59,7 @@
 | ROM | Rough Order of Magnitude |
 | R&D | Research & Development |
 | SAT | Site Acceptance Testing |
+| SME | Subject Matter Expert |
 | STOP | Structural–Thermal–Optical–Performance |
 | UAV | Unmanned Aerial Vehicle |
 | VDL | Visual Design Language |
